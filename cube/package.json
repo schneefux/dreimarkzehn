@@ -1,0 +1,12 @@
+{
+  "name": "cube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "schneefux",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@cubejs-backend/clickhouse-driver": "^0.29.31",
+    "@cubejs-backend/server": "^0.29.32",
+    "cross-env": "^7.0.3"
+  }
+}
